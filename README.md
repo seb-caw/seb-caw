@@ -1,30 +1,20 @@
-# Seb
+#### Seb
 
-Live broadcast operator building toward cloud infrastructure.
+Live operations coordinator → cloud infrastructure
 
-~4 years running live sport broadcasts on air — real-time, no second takes. Translating that incident-response reflex into AWS infrastructure work, with a focus on streaming (Elemental, MediaConnect, MediaLive) where live-TV and cloud naturally overlap.
+📍 Australia  |  📺 ~4yrs live streaming  |  ☁️ AWS SAA (in progress)
 
-## Currently
-- **AWS Solutions Architect Associate** — cert in progress
-- **worldclock** — multi-timezone display for broadcast environment
-- **Homelab** — self-hosted services, IaC, regular S3 backups with lifecycle
-- **Song Sonar** — ESP32 music-detection device + iOS companion *(in progress)*
+Translating that **incident-response** reflex into AWS infrastructure work, with a focus on streaming (Elemental, MediaConnect, MediaLive) where live-TV and cloud naturally overlap.
 
-## Reach me
-- [LinkedIn](https://au.linkedin.com/in/sebastian-cawthorn-17301a321)
-- Email - seb.cawthorn@gmail.com
+#### Projects
 
-<!--
-**seb-caw/seb-caw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 **AWS Solutions Architect** — cert in progress
+- 🖥️ **homelab** — self-hosted stack, S3 backups
+- 🌐 **worldclock** — multi-timezone display for broadcast
+- 🔧 **LLM Stack** — local + cloud, RAG
+- 🎵 **Song Sonar** *(in progress)* — ESP32 music-detection device + iOS companion
 
-Here are some ideas to get you started:
+#### Reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://au.linkedin.com/in/sebastian-cawthorn-17301a321)
+- 📧 seb.cawthorn@gmail.com
