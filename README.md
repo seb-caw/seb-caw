@@ -1,6 +1,4 @@
-#### Seb
-
-Live operations coordinator → cloud infrastructure
+#### Live operations coordinator → cloud infrastructure
 
 📍 Australia  |  📺 ~4yrs live streaming  |  ☁️ AWS SAA (in progress)
 
