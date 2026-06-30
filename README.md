@@ -1,16 +1,14 @@
-#### Live operations coordinator → cloud infrastructure
+#### Currently: Live operations coordinator → learning cloud infrastructure & system design
 
-📍 Australia  |  📺 ~4yrs live streaming  |  ☁️ AWS SAA (in progress)
-
-Translating that **incident-response** reflex into AWS infrastructure work, with a focus on streaming (Elemental, MediaConnect, MediaLive) where live-TV and cloud naturally overlap.
+📍 Australia  |  📺 ~4yrs live streaming  |  ☁️ AWS Solutions Architect Associate (completed June 2026)
 
 #### Projects
 
-- 🧠 **AWS Solutions Architect** — cert in progress
 - 🖥️ **homelab** — self-hosted stack, S3 backups
-- 🌐 **worldclock** — multi-timezone display for broadcast
-- 🔧 **LLM Stack** — local + cloud, RAG
-- 🎵 **Song Sonar** *(in progress)* — ESP32 music-detection device + iOS companion
+- 🌎 **worldclock** — multi-timezone display for broadcast
+- 🔧 **LLM Stack** — local + cloud setup
+- 🌐 **sebstack** *(in progress)* - website made with Hugo, hosted on Amazon S3 + Cloudfront
+- 🎵 **Song Sonar** *(in progress)* — ESP32 music-detection device + iOS app
 
 #### Reach me
 
